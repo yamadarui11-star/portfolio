@@ -28,25 +28,25 @@
 *.vsconfig/
 
 # --- Exclude Heavy & External Assets ---
-*/Assets/WhitePorcelainDishSetDemo/
-*/Assets/_Heathen Engineering/
-*/Assets/asset_store/
-*/Assets/Cowboy Hat/
-*/Assets/Cuisine Studio/
-*/Assets/DevDen Arch Viz Scotland URP/
-*/Assets/devotid/
-*/Assets/Hand Paint Flowers/
-*/Assets/pipe/
-*/Assets/SE/
-*/Assets/ExternalDependencyManager/
-*/Assets/GoogleMobileAds/
-*/Assets/Plugins/
-*/Assets/TutorialInfo/
-*/Assets/Alstrainfinite/
-*/Assets/Font/
-*/Assets/Icon/
-*/Assets/Images/
-*/Assets/Keypad/
-*/Assets/TextMesh Pro/
-*/Assets/Alstrainfinite/
-*/Assets/Materials/
+*/Assets/WhitePorcelainDishSetDemo*
+*/Assets/_Heathen Engineering*
+*/Assets/asset_store*
+*/Assets/Cowboy Hat*
+*/Assets/Cuisine Studio*
+*/Assets/DevDen Arch Viz Scotland URP*
+*/Assets/devotid*
+*/Assets/Hand Paint Flowers*
+*/Assets/pipe*
+*/Assets/SE*
+*/Assets/ExternalDependencyManager*
+*/Assets/GoogleMobileAds*
+*/Assets/Plugins*
+*/Assets/TutorialInfo*
+*/Assets/Alstrainfinite*
+*/Assets/Font*
+*/Assets/Icon*
+*/Assets/Images*
+*/Assets/Keypad*
+*/Assets/TextMesh Pro*
+*/Assets/Alstrainfinite*
+*/Assets/Materials*
